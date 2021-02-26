@@ -1,4 +1,4 @@
-# 20210225
+# vue vant axios 得 demo， 方便以后使用
 
 ## Project setup
 ```
@@ -20,5 +20,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
